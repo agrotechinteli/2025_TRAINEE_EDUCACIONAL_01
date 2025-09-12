@@ -24,7 +24,7 @@ O projeto segue uma abordagem estruturada baseada em:
 
 ## Setor Estudado
 
-**Macrosetor**: [Preencher com o setor - Sucroenergético/Defensivos Agrícolas/Fertilizantes]
+**Macrosetor**: Sucroenergético
 
 ### Justificativa da Escolha
 [Preencher com a justificativa da escolha do setor]
@@ -34,11 +34,16 @@ O projeto segue uma abordagem estruturada baseada em:
 
 ## Empresa Alvo
 
-**Empresa Estudada**: [Preencher com nome da empresa após seleção]
+**Empresa Estudada**: Atvos
 
-**Ticker**: [Preencher se aplicável]
+**Justificativa da Escolha**: 
 
-**Justificativa da Escolha**: [Será preenchida após análise de benchmarking]
+&emsp; Após a análise do mercado sucroenergético, concluímos que a Atvos seria a melhor escolha para esta pesquisa. A empresa possui participação relevante no setor, sendo uma das maiores produtoras de etanol do país e com forte presença no agronegócio. Além disso, conta com uma infraestrutura robusta, composta por diversas usinas e unidades de produção, o que reforça sua escala e capacidade operacional.
+
+&emsp; No que se refere ao acesso às informações, por se tratar de uma companhia de grande porte e que já esteve vinculada ao grupo Odebrecht, há ampla disponibilidade de relatórios, artigos e dados públicos sobre suas operações, especialmente após os processos de reestruturação pelos quais passou.
+
+&emsp; Por fim, a Atvos se destaca por sua atenção às práticas de sustentabilidade, sendo pioneira na produção de bioenergia a partir do bagaço da cana-de-açúcar, contribuindo para a transição energética e para a geração de energia limpa no Brasil.
+
 
 ## Equipe do Projeto
 
@@ -47,24 +52,24 @@ O projeto segue uma abordagem estruturada baseada em:
 <div style={{display: 'flex', flexWrap: 'wrap', gap: '20px', marginTop: '20px'}}>
 
   <div style={{ margin: 10, textAlign: 'center' }}>
-    <a href="https://www.linkedin.com/in/pabloazevedo/">
-      <img src={require("../static/img/Pablo.png").default} style={{ borderRadius: '10%', width: 120 }} alt="Pablo Azevedo" />
+    <a href="https://www.linkedin.com/in/enzorezende">
+      <img src={require("../static/img/enzo.jpeg").default} style={{ borderRadius: '10%', width: 120 }} alt="Enzo Rezende" />
       <br />
-      <sub><b>Pablo Azevedo</b></sub>
+      <sub><b>Enzo Rezende</b></sub>
     </a>
   </div>
   <div style={{ margin: 10, textAlign: 'center' }}>
-    <a href="https://www.linkedin.com/in/pabloazevedo/">
-      <img src={require("../static/img/Pablo.png").default} style={{ borderRadius: '10%', width: 120 }} alt="Pablo Azevedo" />
+    <a href="https://www.linkedin.com/in/lucas-cofcewicz-faria-65b221310">
+      <img src={require("../static/img/lucas.jpg").default} style={{ borderRadius: '10%', width: 120 }} alt="Lucas Faria" />
       <br />
-      <sub><b>Pablo Azevedo</b></sub>
+      <sub><b>Lucas Faria</b></sub>
     </a>
   </div>
   <div style={{ margin: 10, textAlign: 'center' }}>
-    <a href="https://www.linkedin.com/in/pabloazevedo/">
-      <img src={require("../static/img/Pablo.png").default} style={{ borderRadius: '10%', width: 120 }} alt="Pablo Azevedo" />
+    <a>
+      <img src={require("../static/img/thulio.jpeg").default} style={{ borderRadius: '10%', width: 120 }} alt="Thulio Bacco" />
       <br />
-      <sub><b>Pablo Azevedo</b></sub>
+      <sub><b>Thulio Bacco</b></sub>
     </a>
   </div>
 </div>

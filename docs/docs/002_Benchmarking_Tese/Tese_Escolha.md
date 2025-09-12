@@ -31,7 +31,7 @@ description: "Tese de escolha da empresa para análise detalhada"
 | Impacto ESG | [10%] | [10] | [8] | [7] | [7] |
 | **Total** | **100%** | **[8,8]** | **[9,3]** | **[7,3]** | **[6,6]** |
 
-<p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
+<p style={{textAlign: 'center'}}>Fonte: Autoral (2025)</p>
 
 ## Tese Final de Escolha
 

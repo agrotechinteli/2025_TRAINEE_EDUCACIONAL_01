@@ -46,6 +46,6 @@ Apesar da Atvos ter uma diversificação e eficiência média–alta, foco em et
 
 Principais oportunidades:
 - Bioeletricidade - ampliando PPAs para aumentar previsibilidade de caixa.
-- Novas rotas - roadmap de etanol 2G e biometano com gates de investimento e TIR-alvo.
+- Novas rotas - roadmap de etanol 2G e biometano com gates de investimento e TIR-alvo(Taxa Interna de Retorno).
 - Comercial - estruturar travas (açúcar/etanol/energia/CBIOs) e contratos indexados.
 

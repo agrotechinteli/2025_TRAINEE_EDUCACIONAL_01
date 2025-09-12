@@ -42,7 +42,7 @@ Eixo Y:
 
 ## Insights da Matriz
 
-Apesar da Atvos ter uma diversificação e eficiência média–alta, foco em etanol/bioenergia e baixa exposição ao açúcar pode acabar perdendo para seus concorrentes em certos aspectos, mas pode se rdestacar nas suas principais forças sendo a rede multiusinas, cogeração e CBIOs, além de flexibilidade no mix açúcar/etanol tendo com ênfase no etanol, alinhada à descarbonização.
+Apesar da Atvos ter uma diversificação e eficiência média–alta, foco em etanol/bioenergia e baixa exposição ao açúcar pode acabar perdendo para seus concorrentes em certos aspectos, mas pode se destacar nas suas principais forças sendo a rede multiusinas, cogeração e CBIOs, além de flexibilidade no mix açúcar/etanol tendo com ênfase no etanol, alinhada à descarbonização.
 
 Principais oportunidades:
 - Bioeletricidade - ampliando PPAs para aumentar previsibilidade de caixa.

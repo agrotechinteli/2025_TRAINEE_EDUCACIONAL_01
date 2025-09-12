@@ -19,14 +19,14 @@ Critérios: custo por t(tonelada) ATR(Açucar Total Recuperavel), disponibilidad
 ## Justificativa dos Eixos
 
 Eixo X:
-Diversificação - Acaba reduzindo a volatilidade de receita e permite arbitrar ciclos via mix açúcar e etanol.
-Etanol 2G e biometano -  Ambos monetizam resíduos, aumentam margem por hectare e baixam a intensidade de carbono.
-Bioeletricidade contratada - Gera caixa previsível e otimiza o balanço energético.
+- Diversificação - Acaba reduzindo a volatilidade de receita e permite arbitrar ciclos via mix açúcar e etanol.
+- Etanol 2G e biometano -  Ambos monetizam resíduos, aumentam margem por hectare e baixam a intensidade de carbono.
+- Bioeletricidade contratada - Gera caixa previsível e otimiza o balanço energético.
 
 Eixo Y: 
-Custo por t ATR - Sendo melhor por competividade.
-Disponibilidade industrial e produtividade agrícola - Elevam o ATR processado e reduzem o custo unitário.
-Logística e escala - Acabam cortando fretes e perdas e ampliam acesso a mercado.
+- Custo por t ATR - Sendo melhor por competividade.
+- Disponibilidade industrial e produtividade agrícola - Elevam o ATR processado e reduzem o custo unitário.
+- Logística e escala - Acabam cortando fretes e perdas e ampliam acesso a mercado.
 
 ## Matriz de Posicionamento
 
@@ -45,7 +45,7 @@ Logística e escala - Acabam cortando fretes e perdas e ampliam acesso a mercado
 Apesar da Atvos ter uma diversificação e eficiência média–alta, foco em etanol/bioenergia e baixa exposição ao açúcar pode acabar perdendo para seus concorrentes em certos aspectos, mas pode se rdestacar nas suas principais forças sendo a rede multiusinas, cogeração e CBIOs, além de flexibilidade no mix açúcar/etanol tendo com ênfase no etanol, alinhada à descarbonização.
 
 Principais oportunidades:
-Bioeletricidade - ampliando PPAs para aumentar previsibilidade de caixa.
-Novas rotas - roadmap de etanol 2G e biometano com gates de investimento e TIR-alvo.
-Comercial - estruturar travas (açúcar/etanol/energia/CBIOs) e contratos indexados.
+- Bioeletricidade - ampliando PPAs para aumentar previsibilidade de caixa.
+- Novas rotas - roadmap de etanol 2G e biometano com gates de investimento e TIR-alvo.
+- Comercial - estruturar travas (açúcar/etanol/energia/CBIOs) e contratos indexados.
 

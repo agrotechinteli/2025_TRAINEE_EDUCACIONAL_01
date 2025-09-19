@@ -63,10 +63,10 @@ description: "Análise comparativa dos principais concorrentes do setor"
 
 | KPI | Atvos | Raízen | BP Bunge Bioenergia | São Martinho | Observações |
 |-----|-----------|---------------|---------------|---------------|-------------|
-| [KPI 1] | 3,0 | 2,5 | 2,0 | 1,5 | Valores aproximados do setor sucroenergético brasileiro (2024) |
-| [KPI 2] | 1.300 | 1.200 | 1.000 | 900 | Bioeletricidade a partir de biomassa de cana |
-| [KPI 3] | 0,7 | 4,0 | 1,5 | 2,5 | Atvos foca mais em etanol, Raízen e São Martinho têm maior produção de açúcar |
-| [KPI 4] | 8 | 35 | 11 | 4 | Atvos com porte relevante, mas menor que Raízen |
-| [KPI 5] | superior a 3,5 | 3,0 | 2,0 | 1,0 | Atvos destaca-se em emissão de CBIOs, reforçando liderança em bioenergia |
+| Capacidade anual de etanol (milhões m³) | 3,0 | 2,5 | 2,0 | 1,5 | Valores aproximados do setor sucroenergético brasileiro (2024) |
+| Geração média de bioeletricidade (MW) | 1.300 | 1.200 | 1.000 | 900 | Bioeletricidade a partir de biomassa de cana |
+| Produção anual de açúcar (milhões t) | 0,7 | 4,0 | 1,5 | 2,5 | Atvos foca mais em etanol, Raízen e São Martinho têm maior produção de açúcar |
+| Número de usinas industriais | 8 | 35 | 11 | 4 | Atvos com porte relevante, mas menor que Raízen |
+| CBIOs emitidos (milhões de créditos) | superior a 3,5 | 3,0 | 2,0 | 1,0 | Atvos destaca-se em emissão de CBIOs, reforçando liderança em bioenergia |
 
 <p style={{textAlign: 'center'}}>Fonte: sites utilizados - wikipedia, institucional da Atvos, BNmericas, institucional da Raízen, institucional da BP Bunge Bioenergia e institucional da São Martinho (2025)</p>

@@ -27,7 +27,7 @@ Eixo Y:
 - Custo por t ATR - Sendo melhor por competividade.
 - Disponibilidade industrial e produtividade agrícola - Elevam o ATR processado e reduzem o custo unitário.
 - Logística e escala - Acabam cortando fretes e perdas e ampliam acesso a mercado.
-
+    
 ## Matriz de Posicionamento
 
 ## Posicionamento das Empresas

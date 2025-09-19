@@ -15,10 +15,9 @@ O cálculo reflete a *receita líquida total de vendas de etanol hidratado divid
 
 *Fórmula*:
 
-\[
-\text{Ticket Médio} \,(R\$/cliente) =
-\frac{\text{Receita Líquida Total de Vendas de Etanol Hidratado (R\$)}}{\text{Número de Clientes/Contratos Ativos no Período}}
-\]
+Ticket Médio (R$/cliente) =
+[Receita Líquida Total de Vendas de Etanol Hidratado (R$)] /
+[Número de Clientes/Contratos Ativos no Período]
 
 ### Variáveis
 

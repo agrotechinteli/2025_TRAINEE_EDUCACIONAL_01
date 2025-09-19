@@ -8,43 +8,49 @@ description: "Cenários de precificação: base, otimista e pessimista"
 
 ## Cenário Base
 
-**Ticket Médio**: [Preencher]
+**Ticket Médio**: R$ 1.000 por cliente/contrato(valor aproximado)
 
 ### Principais Premissas
 
-- [Preencher premissa 1]
-- [Preencher premissa 2]
-- [Preencher premissa 3]
+- Preço do etanol hidratado: R$ 2,40/litro (média ANP em SP).
+- Preço do açúcar: US¢ 19/lb, câmbio R$ 5,00/US$.
+- Mix de produção: 55% etanol / 40% açúcar / 5% bioenergia.
 
-**Justificativa**: [Preencher]
+**Justificativa**: Tendo como base as condições atuais de mercado (2024/25), com gasolina estabilizada, açúcar em patamar médio e câmbio neutro.
 
 ## Cenário Otimista
 
-**Ticket Médio**: [Preencher]
+**Ticket Médio**: R$ 1.150
 
 ### Principais Premissas
 
-- [Preencher premissa 1]
-- [Preencher premissa 2]
-- [Preencher premissa 3]
+- Gasolina mais cara → preço do etanol sobe para R$ 2,70/litro.
+- Açúcar em alta → US¢ 22/lb e câmbio de R$ 5,20/US$.
+- Mix ajustado para 60% etanol / 35% açúcar / 5% bioenergia.
 
-**Probabilidade**: [Preencher] %
+**Probabilidade**: 30%
 
-**Drivers do Cenário**: [Preencher]
+
+**Drivers do Cenário**: 
+
+- Alta do petróleo puxando gasolina.
+- Real desvalorizado, beneficiando exportações.
 
 ## Cenário Pessimista
 
-**Ticket Médio**: [Preencher]
+**Ticket Médio**: R$850
 
 ### Principais Premissas
 
-- [Preencher premissa 1]
-- [Preencher premissa 2]
-- [Preencher premissa 3]
+-Gasolina subsidiada fazendo o preço do etanol cai para R$ 2,10/litro.
+- Açúcar em queda para US¢ 17/lb, câmbio de R$ 4,80/US$.
+- Mix mantido em 55% etanol / 40% açúcar / 5% bioenergia.
 
-**Probabilidade**: [Preencher] %
+**Probabilidade**: 25%
 
-**Drivers do Cenário**: [Preencher]
+**Drivers do Cenário**: 
+- Intervenção governamental no preço dos combustíveis.
+- Safra global de açúcar abundante.
 
 ## Resumo dos Cenários
 
@@ -52,8 +58,8 @@ description: "Cenários de precificação: base, otimista e pessimista"
 
 | Cenário | Ticket Médio | Variação vs Base | Probabilidade |
 |---------|--------------|------------------|---------------|
-| Pessimista | [Preencher] | [Preencher] | [Preencher] |
-| Base | [Preencher] | 0% | [Preencher] |
-| Otimista | [Preencher] | [Preencher] | [Preencher] |
+| Pessimista | R$ 850 | -15%| 25% |
+| Base | R$1000 | 0% | 45% |
+| Otimista | R$1150 | +15% | 30% |
 
 <p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>

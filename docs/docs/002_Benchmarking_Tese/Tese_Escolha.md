@@ -11,13 +11,20 @@ description: "Tese de escolha da empresa para análise detalhada"
 ### Lista de Critérios
 
 1. Relevância Setorial
-&emsp; É um critério essencial em uma análise de valuation, com ela conseguimos analisar sua importância no setor e como ela se compara com seus competidores.
+
+É um critério essencial em uma análise de valuation, com ela conseguimos analisar sua importância no setor e como ela se compara com seus competidores.
+
 2. Tamanho e Infraestrutura
-&emsp; Outro critério essencial, com ele conseguimos analisar o tamanho da empresa e a qualidade dos seus produtos e muito mais.
+
+Outro critério essencial, com ele conseguimos analisar o tamanho da empresa e a qualidade dos seus produtos e muito mais.
+
 3. Acesso a Informações
-&emsp; Sem indormações realizar uma valuation é impossível, é imperativo escolher uma empresa onde informações de qualidade sejam públicas e de fácil acesso.
+
+ Sem indormações realizar uma valuation é impossível, é imperativo escolher uma empresa onde informações de qualidade sejam públicas e de fácil acesso.
+
 4. Impacto ESG
-&emsp; É um critério muito importante, principalmente hoje em dia onde cada vez mais focamos na sustentabilidade.
+
+É um critério muito importante, principalmente hoje em dia onde cada vez mais focamos na sustentabilidade.
 
 ## Avaliação Comparativa
 
@@ -31,7 +38,7 @@ description: "Tese de escolha da empresa para análise detalhada"
 | Impacto ESG | [10%] | [10] | [8] | [7] | [7] |
 | **Total** | **100%** | **[8,8]** | **[9,3]** | **[7,3]** | **[6,6]** |
 
-<p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
+<p style={{textAlign: 'center'}}>Fonte: Autoral (2025)</p>
 
 ## Tese Final de Escolha
 

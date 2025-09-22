@@ -21,7 +21,7 @@ description: "Definição e caracterização do produto/linha analisado"
 
 ### Justificativa da Seleção
 
-O etanol hidratado foi escolhido por ser o principal produto da Atvos(cerca de 55–60% da receita líquida da Atvos), respondendo pela maior parte do faturamento e pelo desempenho do ticket médio, além de refletir diretamente a sensibilidade à política de preços da gasolina.
+O etanol hidratado foi escolhido por ser o principal produto da Atvos, respondendo pela maior parte do faturamento e pelo desempenho do ticket médio, além de refletir diretamente a sensibilidade à política de preços da gasolina.
 
 Fatores Considerados
 

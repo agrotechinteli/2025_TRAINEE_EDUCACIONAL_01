@@ -14,54 +14,55 @@ description: "Reconciliação das metodologias e análise de cenários"
 
 | Metodologia | Valor por Ação | Peso Atribuído | Valor Ponderado |
 |-------------|----------------|----------------|-----------------|
-| Metodologia 1 | [Valor] | [%] | [Valor] |
-| Metodologia 2 | [Valor] | [%] | [Valor] |
-| Metodologia 3 | [Valor] | [%] | [Valor] |
-| **Valor Final** | - | **100%** | **[Valor Final]** |
+| DCF/FCFF      | R$ **12,5 bi** | **70%**  | R$ **8,75 bi** |
+| Múltiplos S&E | R$ **11,3 bi** | **30%**  | R$ **3,39 bi** |
+| Metodologia 3 | - | - | - |
+| **Valor Final** | - | **100%** | **R$ 12,1 bi** |
 
-<p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
+<p style={{textAlign: 'center'}}>Fonte: Autoral (2025)</p>
 
 ### Justificativa dos Pesos
 
-[Preencher explicando por que cada metodologia recebeu determinado peso]
+O DCF recebeu maior peso (70%) por refletir diretamente os drivers de caixa da Atvos (moagem/ATR, mix açúcar–etanol, energia de biomassa e CBIOs) com dados públicos e frequentes como UNICA (moagem/ATR), CEPEA (etanol), Reuters/ICE (açúcar), CCEE (energia). Os múltiplos (30%) entram como sanity check de mercado usando pares puros de S&E, reduzindo viés de premissas e oferecendo uma faixa de valor.
 
 ### Análise das Divergências
 
-[Preencher analisando por que diferentes metodologias resultaram em valores diferentes]
+As diferenças entre DCF e múltiplos vem do ciclo setorial (safra 24/25 ), os preços do etanol/açúcar no período de coleta, a sazonalidade de estoques e PLD/ACR na energia, o preço do CBIO, e a amostra pequena de comparáveis.
 
 ## Cenários de Valuation
 
 ### Cenário Pessimista
 
 **Principais Premissas Alteradas**:
-- [Preencher premissa 1]
-- [Preencher premissa 2]
-- [Preencher premissa 3]
 
-**Valor por Ação**: [Preencher]
+- ATR/produtividade abaixo do histórico no CS, moagem pressiona volumes.
+- Etanol CEPEA: -10% vs base,  Açúcar ICE: -12% vs base.
+- Energia (CCEE/ACR): -8% vs base, CBIO (B3): -20% vs base.
 
-**Probabilidade**: [Preencher] %
+**Valor por Ação**: R$ 9,5 bi
 
-**Drivers do Cenário**: [Preencher]
+**Probabilidade**: 25 %
+
+**Drivers do Cenário**: Choque de produtividade, preços mais fracos de etanol/açúcar, PLD/ACR menores, CBIO deprimido e custo de capital mais alto.
 
 ### Cenário Base
 
-**Valor por Ação**: [Preencher]
+**Valor por Ação**: R$ 12,1 bi
 
-**Probabilidade**: [Preencher] %
+**Probabilidade**: 50 %
 
 ### Cenário Otimista
 
 **Principais Premissas Alteradas**:
-- [Preencher premissa 1]
-- [Preencher premissa 2]
-- [Preencher premissa 3]
+- ATR/produtividade retorna ao patamar histórico, volumes sustentados.
+- Etanol CEPEA: +8% vs base, Açúcar ICE: +10% vs base.
+- Energia (CCEE/ACR): +5% vs base, CBIO (B3): +20% vs base.
 
-**Valor por Ação**: [Preencher]
+**Valor por Ação**: R$ 15,0 bi
 
-**Probabilidade**: [Preencher] %
+**Probabilidade**: 25 %
 
-**Drivers do Cenário**: [Preencher]
+**Drivers do Cenário**: Preços e produtividade favoráveis, CBIO aquecido e custo de capital menor.
 
 ## Resumo dos Cenários
 
@@ -69,8 +70,8 @@ description: "Reconciliação das metodologias e análise de cenários"
 
 | Cenário | Valor por Ação | Probabilidade | Drivers Principais |
 |---------|----------------|---------------|-------------------|
-| Pessimista | [Valor] | [%] | [Drivers] |
-| Base | [Valor] | [%] | [Drivers] |
-| Otimista | [Valor] | [%] | [Drivers] |
+| Pessimista | R$ **9,5 bi** | 25% | ATR/volumes baixos; CEPEA/ICE em baixa; ACR/PLD e CBIO fracos. |
+| Base | R$ **12,1 bi**  | 50% | Normalização de safra; preços médios; ACR/PLD e CBIO em média. |
+| Otimista | R$ **15,0 bi**  | 25% | TR/volumes altos; CEPEA/ICE em alta; ACR/PLD e CBIO fortes. |
 
-<p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
+<p style={{textAlign: 'center'}}>Fonte: Autoral (2025)</p>

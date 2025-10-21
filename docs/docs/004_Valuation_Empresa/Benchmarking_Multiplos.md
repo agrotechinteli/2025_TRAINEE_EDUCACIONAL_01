@@ -46,7 +46,7 @@ description: "Benchmarking de múltiplos da empresa vs peers do setor"
 
 <p style={{textAlign: 'center'}}>Figura 1 — Benchmark EV/EBITDA (x) com faixa-alvo e mediana</p>
 
-![Benchmark – EV/EBITDA (x)](/docs/static/img/benchmark_ev_ebitda1.png)
+![Benchmark – EV/EBITDA (x)](../../..//docs/static/img/benchmark_ev_ebitda1.png)
 
 <p style={{textAlign: 'center'}}>Notas: Banda sombreada = *faixa-alvo 3,0x–4,0x; linha tracejada = **mediana de peers (3,59x)*.</p>
 
@@ -54,6 +54,6 @@ description: "Benchmarking de múltiplos da empresa vs peers do setor"
 
 <p style={{textAlign: 'center'}}>Figura 2 — Benchmark EV/Receita (x) com mediana</p>
 
-![Benchmark – EV/Receita (x)](/docs/static/img/benchmark_ev_receita1.png)
+![Benchmark – EV/Receita (x)](../../../docs/static/img/benchmark_ev_receita1.png)
 
 <p style={{textAlign: 'center'}}>Nota: linha tracejada = *mediana de peers (0,86x)*.</p>

@@ -77,7 +77,7 @@ description: "Análise de sensibilidade e identificação de variáveis crítica
 
 <p style={{textAlign: 'center'}}>Figura X — Gráfico Tornado (∆ Valor por Ação vs Base)</p>
 
-![Gráfico Tornado — Sensibilidade](/docs/static/img/sensibilidade_tornado_v3.png)
+![Gráfico Tornado — Sensibilidade](../../../docs/static/img/sensibilidade_tornado_v3.png)
 
 *Ordem sugerida (tornado, ∆ Valor vs Base):*
 1. Etanol (R$/L) ±10% → *+8,5% / −8,0%*

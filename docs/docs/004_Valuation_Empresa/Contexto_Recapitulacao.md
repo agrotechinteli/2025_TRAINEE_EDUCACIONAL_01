@@ -8,16 +8,16 @@ description: "Contexto da empresa e recapitulação das análises anteriores"
 
 ## Perfil da Empresa
 
-*Breve Descrição*:  
+### *Breve Descrição*:  
 A *Atvos* é uma companhia sucroenergética *integrada* com múltiplas usinas no Centro-Sul do Brasil, operando cadeias *agro* (produção e colheita de cana) e *industrial* (moagem, fermentação, destilação e cogeração). Seu portfólio é concentrado em *etanol (hidratado e anidro)* e *bioeletricidade*, com exposição seletiva a *açúcar VHP* e à monetização de *CBIOs* no âmbito do RenovaBio.
 
-*Principais Segments*:  
+### *Principais Segmentos*:  
 - *Biocombustíveis*: etanol *hidratado* (mercado doméstico) e *anidro* (mistura obrigatória).  
 - *Açúcar VHP*: produção oportunística conforme *mix* de preços relativos.  
 - *Bioenergia*: *cogeração* a partir de biomassa (bagaço/palha), contratos no *ACL* (PPAs).  
 - *Descarbonização*: emissão e comercialização de *CBIOs*.
 
-*Posicionamento Competitivo*:  
+### *Posicionamento Competitivo*:  
 Posiciona-se como player *focado em etanol* e bioenergia, com *rede multiusinas*, *integração agroindustrial* e ênfase em sustentabilidade. Em benchmarking com pares listados (Raízen, São Martinho) e privados (BP Bunge), a Atvos se enquadra em *diversificação média–alta* e eficiência operacional média–alta, com diferenciais em *CBIOs* e *cogeração*, mas *menor diversificação* comercial (ex.: distribuição varejista) que líderes integrados.
 
 ---

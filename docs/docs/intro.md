@@ -27,11 +27,18 @@ O projeto segue uma abordagem estruturada baseada em:
 **Macrosetor**: Sucroenergético
 
 ### Justificativa da Escolha
-[Preencher com a justificativa da escolha do setor]
+Tendo um grande relevância econômica no Brasil com uma forte presença no Centro‑Sul desempenha um papel estratégico na transição energética via etanol e bioeletricidade de biomassa. Alem  de ter um setor intensivo em gestão e tecnologia, permitindo comparar eficiência entre empresas. Por esses fatores acabamos escolhendo este setor tão importante.
 
 ### Características do Setor
-[Preencher com principais características e dinâmicas do setor escolhido]
+- Os ciclos e volatilidade de preços (açúcar, gasolina/etanol) e câmbio.
 
+- Risco climático e safra anual: produtividade medida por TCH e ATR.
+
+- Integração agroindustrial com cogeração, uso de resíduos e possibilidade de etanol 2G/biometano.
+
+- Logística e escala: dutos/terminais/ferrovias reduzem custo; clusters multiusinas trazem sinergias.
+
+- Concorrência consolidada: grupos como Raízen, São Martinho, BP Bunge e Atvos.
 ## Empresa Alvo
 
 **Empresa Estudada**: Atvos
@@ -78,9 +85,9 @@ O projeto segue uma abordagem estruturada baseada em:
 
 | Entregável | Data de Entrega | Status |
 |------------|-----------------|--------|
-| Benchmarking & Tese da Empresa | 12/09/2025 | 🔄 Em Andamento |
-| Ticket Médio & Drivers | 19/09/2025 | ⏳ Pendente |
-| Valuation da Empresa | 26/09/2025 | ⏳ Pendente |
+| Benchmarking & Tese da Empresa | 12/09/2025 | ✅ Entregue |
+| Ticket Médio & Drivers | 19/09/2025 | ✅ Entregue |
+| Valuation da Empresa | 26/09/2025 | ✅ Entregue |
 
 ## Estrutura da Documentação
 

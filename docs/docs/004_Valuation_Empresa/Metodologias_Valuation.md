@@ -8,7 +8,7 @@ description: "Metodologias de valuation escolhidas e suas justificativas"
 
 ## Metodologias Escolhidas
 
-**Metodologia 1**: Fluxo de Caixa Descontado (DCF/FCFF). Adequada porque o negócio sucroenergético da Atvos é dirigido por volumes de cana/ATR, mix açúcar–etanol, energia de biomassa e CBIOs.
+**Metodologia 1**: Fluxo de Caixa Descontado (DCF), utilizando o fluxo de caixa livre para firma (FCFFF). Adequada porque o negócio sucroenergético da Atvos é dirigido por volumes de cana/ATR, mix açúcar–etanol, energia de biomassa e CBIOs.
 
 **Metodologia 2**: Múltiplos de comparáveis (EV/EBITDA) de pares puros de S&E no Brasil, para checagem independente do DCF e obtenção de uma faixa de valor.
 

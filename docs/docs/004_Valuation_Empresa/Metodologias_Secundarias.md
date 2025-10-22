@@ -40,15 +40,3 @@ description: "Metodologias secundárias e comparação de resultados"
 **Valor por Ação**: N/A (companhia fechada)
 
 ## Metodologia 3: Nao aplicavel 
-
-### Descrição da Metodologia
-
-[Preencher com explicação técnica]
-
-### Premissas Específicas
-
-[Preencher com premissas específicas desta metodologia]
-
-### Resultado da Metodologia 3
-
-**Valor por Ação**: [Preencher]

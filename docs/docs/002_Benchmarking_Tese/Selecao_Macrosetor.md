@@ -12,7 +12,7 @@ description: "Seleção e justificativa do macrosetor estudado"
 
 ### Justificativa da Escolha
 
-Tendo um grande relevância econômica no Brasil com uma forte presença no Centro‑Sul desenpenha um papel estratégico na transição energética via etanol e bioeletricidade de biomassa.Alem  de ter um setor intensivo em gestão e tecnologia, permitindo comparar eficiência entre empresas. Por esses fatores acabamos escolhendo esta setor tao importante.
+Tendo um grande relevância econômica no Brasil com uma forte presença no Centro‑Sul desempenha um papel estratégico na transição energética via etanol e bioeletricidade de biomassa. Alem  de ter um setor intensivo em gestão e tecnologia, permitindo comparar eficiência entre empresas. Por esses fatores acabamos escolhendo este setor tão importante.
 
 ### Características do Setor
 
